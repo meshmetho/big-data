@@ -3,8 +3,8 @@ import pandas as pd
 import pyodbc
 
 # Set database credentials
-db_password = 'Oppoa3s2019#'
-db_username = 'sa'
+db_password = 'metho123'
+db_username = 'mesho'
 
 # Database connection details
 db_driver = "ODBC Driver 17 for SQL Server"
